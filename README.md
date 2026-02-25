@@ -5,11 +5,11 @@ I am Rouven a student studying computer science at the University of Zurich.
 I'm currently trying to build my own shell using C while also learning how C works.
 
 ## Tools & Tech
--Python
--Django
--C
--Git
--Html/CSS
+ - Python
+ - Django
+ - C
+ - Git
+ - Html/CSS
 
 ## About me
 
