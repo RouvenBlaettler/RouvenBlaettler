@@ -1,20 +1,29 @@
 ## Hi there 👋
 
-I am Rouven a student studying computer science at the University of Zurich.
+I'm **Rouven**, a Computer Science student at the University of Zurich 🇨🇭.
 
-I'm currently trying to build my own shell using C while also learning how C works.
+🛠️ Currently building my own Unix-like shell in C to better understand operating systems, memory management, and low-level programming.
 
-## Tools & Tech
- - Python
- - Django
- - C
- - Git
- - Html/CSS
+---
 
-## About me
+### 🚀 Tools & Technologies
 
-I'm trying to learn as much as possible about computer science to become a SWE and finding out what direction i want to go and
-i also do lots of sport like working out, bouldering and jogging.
+* Python
+* Django
+* C
+* Git
+* HTML / CSS
+
+---
+
+### 🎯 About Me
+
+I'm passionate about learning how computers work from the ground up and exploring different areas of software engineering.
+
+My goal is to become a Software Engineer and discover which field — systems, backend, or something else — suits me best.
+
+Outside of coding, I enjoy working out, bouldering, and jogging 🧗‍♂️🏃‍♂️
+
 
 <!--
 **RouvenBlaettler/RouvenBlaettler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
